@@ -3,7 +3,7 @@ Usage
 
 .. _installation:
 
-Lauching HGCP-SiteManagement Module
+Installation
 ------------
 
 To lunch Lumache, first install is extract .zip file to any location 
@@ -11,11 +11,6 @@ To lunch Lumache, first install is extract .zip file to any location
 .. image:: extract-zip.png
   :width: 400
   :alt: Alternative text
-
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
 
 Creating recipes
 ----------------
