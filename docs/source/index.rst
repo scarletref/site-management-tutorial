@@ -1,10 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to SiteManagement's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SiteManagement** is a 3D data management and visualization software
+that create and visualize 3D geoscientific models in a user-friendly interface.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
