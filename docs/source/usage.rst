@@ -3,10 +3,15 @@ Usage
 
 .. _installation:
 
-Installation
+Lauching HGCP-SiteManagement Module
 ------------
 
-To use Lumache, first install it using pip:
+To lunch Lumache, first install is extract .zip file to any location 
+
+.. image:: extract-zip.png
+  :width: 400
+  :alt: Alternative text
+
 
 .. code-block:: console
 
