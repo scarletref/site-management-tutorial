@@ -6,10 +6,13 @@ Usage
 Installation
 ------------
 
-To lunch Lumache, first install is extract .zip file to any location 
+1. To lunch ``SiteManagement``, first install is extract .zip file to any location 
+2. Double click “HGCP.exe” under HGCP folder
+3. Click “Project” > New/Load a Project
+4. Click “Site Manegement” button in the side toolbar
 
 .. image:: extract-zip.png
-  :width: 400
+  :width: 200
   :alt: Alternative text
 
 Creating recipes
